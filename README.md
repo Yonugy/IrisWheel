@@ -10,6 +10,14 @@ Introducing IrisWheel—an innovative solution that empowers wheelchair users to
 ## Product/service description
 Iriswheel is an innovative wheelchair designed for quadriplegics, offering hands-free control using eye-tracking technology. By simply looking in a direction, users can navigate smoothly and independently. Key features include precise movement control. Iriswheel is battery-powered and lightweight, making it ideal for both indoor and outdoor use, giving users greater freedom and confidence.
 
+## Target market
+- Individuals paralyzed from the neck down (e.g., spinal cord injuries)
+- Hospitals and care centers
+- Advanced Tool: Valuable resource for hospitals and care facilities
+- Improved Mobility: Enhances mobility for those with severe physical limitations
+
+
+
 
 ## Outcome
 The release of Iriswheel will transform lives for individuals with quadriplegia by enabling eye-tracking control, reducing the need for assistance and empowering independent navigation.
