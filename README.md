@@ -59,6 +59,3 @@ Total Cost: RM142
 - Offers a unique, empowering alternative for mobility solutions.
 
 
-
-## Outcome
-The release of Iriswheel will transform lives for individuals with quadriplegia by enabling eye-tracking control, reducing the need for assistance and empowering independent navigation.
