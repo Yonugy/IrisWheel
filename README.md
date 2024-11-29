@@ -42,6 +42,21 @@ IrisWheel's main competition includes companies like Tobii Dynavox, known for ey
 
 Total Cost: RM142
 
+## Conclusion
+- IrisWheel enhances mobility for individuals with spinal cord injuries, ALS, or stroke using eye-tracking technology for hands-free wheelchair control.
+- Allows for independent and safe navigation indoors and outdoors, featuring:
+    - Eye-based control
+    - Obstacle detection
+    - Automatic stopping
+- Revenue generation strategy includes sales and support services.
+- Partnerships with hospitals, suppliers, and insurers to expand distribution.
+- Marketing strategy:
+    - Social media
+    - SEO
+    - Targeted ads
+- Collaborations with influencers and healthcare experts
+- Competes with companies like Tobii Dynavox and Permobil.
+- Offers a unique, empowering alternative for mobility solutions.
 
 
 
