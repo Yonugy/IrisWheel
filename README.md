@@ -19,6 +19,9 @@ Iriswheel is an innovative wheelchair designed for quadriplegics, offering hands
 ## Market Validation
 The target market for Iriswheel includes individuals with mobility challenges due to conditions like spinal cord injuries, ALS, and stroke, with 17,900 new spinal cord injury cases annually in the U.S. There is rising demand for accessible, hands-free technology like eye-tracking solutions to improve independence and quality of life. Hospitals and rehabilitation centers are also seeking innovative devices, highlighting the need for Iriswheel to enhance patient care.
 
+## Business Model
+IrisWheel will make money by selling the glasses and offering extra services like updates and support. People can buy them online, and we’ll also work with hospitals and companies that sell medical equipment. We can team up with hospitals and insurance companies to make sure the glasses are covered, and working with tech companies might help make the product even better. We’ll also partner with non-profits to get the word out and help more people know about IrisWheel.
+
 
 
 
