@@ -16,6 +16,11 @@ Iriswheel is an innovative wheelchair designed for quadriplegics, offering hands
 - Advanced Tool: Valuable resource for hospitals and care facilities
 - Improved Mobility: Enhances mobility for those with severe physical limitations
 
+## Market Validation
+The target market for Iriswheel includes individuals with mobility challenges due to conditions like spinal cord injuries, ALS, and stroke, with 17,900 new spinal cord injury cases annually in the U.S. There is rising demand for accessible, hands-free technology like eye-tracking solutions to improve independence and quality of life. Hospitals and rehabilitation centers are also seeking innovative devices, highlighting the need for Iriswheel to enhance patient care.
+
+
+
 
 
 
