@@ -30,6 +30,10 @@ IrisWheel will make money by selling the glasses and offering extra services lik
 - Boost SEO and use email marketing for visibility.
 - Partner with influencers and healthcare experts for credibility.
 
+## Competitive Analysis
+IrisWheel's main competition includes companies like Tobii Dynavox, known for eye-tracking technology, and Permobil, which offers advanced power wheelchairs. EyeTech Digital Systems also provides eye-tracking mobility solutions, while Quantum Rehab specializes in customizable power wheelchairs. OrCam Technologies focuses on AI-driven wearable devices for hands-free control, appealing to a similar market. These companies offer strong alternatives with innovative assistive technology.
+
+
 
 
 
