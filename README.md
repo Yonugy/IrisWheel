@@ -22,6 +22,13 @@ The target market for Iriswheel includes individuals with mobility challenges du
 ## Business Model
 IrisWheel will make money by selling the glasses and offering extra services like updates and support. People can buy them online, and we’ll also work with hospitals and companies that sell medical equipment. We can team up with hospitals and insurance companies to make sure the glasses are covered, and working with tech companies might help make the product even better. We’ll also partner with non-profits to get the word out and help more people know about IrisWheel.
 
+## Marketing and Sales Strategy
+- Create a website for IrisWheel with videos, testimonials, and a simple purchase process.
+- Use Facebook and Instagram to target people with mobility challenges, caregivers, and healthcare professionals.
+- Share demos and success stories on social media.
+- Run targeted ads on Google and social platforms.
+- Boost SEO and use email marketing for visibility.
+- Partner with influencers and healthcare experts for credibility.
 
 
 
