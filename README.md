@@ -33,7 +33,14 @@ IrisWheel will make money by selling the glasses and offering extra services lik
 ## Competitive Analysis
 IrisWheel's main competition includes companies like Tobii Dynavox, known for eye-tracking technology, and Permobil, which offers advanced power wheelchairs. EyeTech Digital Systems also provides eye-tracking mobility solutions, while Quantum Rehab specializes in customizable power wheelchairs. OrCam Technologies focuses on AI-driven wearable devices for hands-free control, appealing to a similar market. These companies offer strong alternatives with innovative assistive technology.
 
+## Cost
+1) Glasses = RM7
+2) Camera = RM40
+3) System = FREE
+4) Robot = RM18
+5) Hardware = RM77
 
+Total Cost: RM142
 
 
 
