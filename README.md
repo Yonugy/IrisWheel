@@ -7,10 +7,10 @@ Paralyzed individuals face significant mobility challenges, unable to control th
 ## Solution Overview
 Introducing IrisWheel—an innovative solution that empowers wheelchair users to control movement using their eye movements. These advanced glasses monitor eye movements for steering, turning, and stopping, thereby offering a hands-free and intuitive navigation experience. With IrisWheel, users achieve greater independence and freedom, rendering everyday tasks more accessible while simultaneously enhancing mobility and comfort.
 
-## Product/service description
+## Product/Service Description
 Iriswheel is an innovative wheelchair designed for quadriplegics, offering hands-free control using eye-tracking technology. By simply looking in a direction, users can navigate smoothly and independently. Key features include precise movement control. Iriswheel is battery-powered and lightweight, making it ideal for both indoor and outdoor use, giving users greater freedom and confidence.
 
-## Target market
+## Target Market
 - Individuals paralyzed from the neck down (e.g., spinal cord injuries)
 - Hospitals and care centers
 - Advanced Tool: Valuable resource for hospitals and care facilities
